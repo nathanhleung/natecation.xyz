@@ -1,3 +1,10 @@
+# Shortlinks
+https://n8c.xyz/fallback https://fallback.natecation.xyz/ 302
+https://n8c.xyz/tour https://tour.natecation.xyz/ 302
+https://n8c.xyz/sheets https://nfsheets.natecation.xyz/ 302
+https://n8c.xyz/hex https://hexooor.natecation.xyz/ 302
+
+# Redirect all domains to natecation.xyz otherwise
 https://n8c.xyz/* https://www.natecation.xyz/:splat 301!
 https://www.n8c.xyz/* https://www.natecation.xyz/:splat 301!
 https://natecation-xyz.netlify.app/* https://www.natecation.xyz/:splat 301!
